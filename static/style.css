@@ -182,6 +182,10 @@ i.menu-mobile {
     background-color: #eff5ff;
 }
 
+.custom-progress {
+    background-color: #1bb19d;
+}
+
 .cv .cv-title {
     font-weight: 700;
     margin-top: 20px;
